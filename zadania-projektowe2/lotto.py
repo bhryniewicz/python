@@ -10,7 +10,6 @@ for number in range(6):
 
 for userNumber in range(6):
     user = int(input('podaj liczbe od 1 do 49: '))
-    if
     userNumbers.append(user)
 
 values = np.intersect1d(numbers, userNumbers)
